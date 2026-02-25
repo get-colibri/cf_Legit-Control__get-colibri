@@ -1,5 +1,5 @@
 # Edit Markdown together.
 
-... with
+... without leaving GitHub
 
 own together.
