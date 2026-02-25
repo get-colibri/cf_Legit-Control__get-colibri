@@ -2,7 +2,7 @@
 
 ... without leaving GitHub.
 
-&#8203;
+**Colibri is a collaborative Markdown editor for GitHub repositories.**
 
 &#8203;
 
