@@ -2,7 +2,7 @@
 
 ... without leaving GitHub.
 
-**Colibri is a collaborative Markdown editor for GitHub repositories.**
+**Colibri is a collaborative Markdown editor fo GitHub repositories.**
 
 Open any `.md` file, edit in real time with your team, and merge it back as a clean pull request.
 
