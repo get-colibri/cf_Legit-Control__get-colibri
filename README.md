@@ -13,7 +13,7 @@ own together.
 Hello, Martin!  
 <br>This is Jay.
 
-There is significant 
+There is significant synergy here
 
 &#8203;
 
