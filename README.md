@@ -1,4 +1,4 @@
-## Edit Markdown together. 
+## Edit Markdown Like in Goo. 
 
 ## Without leaving GitHub.
 
