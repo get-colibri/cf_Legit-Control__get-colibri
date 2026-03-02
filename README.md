@@ -1,6 +1,6 @@
-## Edit Markdown Like in Goo. 
+## Edit Markdown Like in Google Docs. 
 
-## Without leaving GitHub.
+&#8203;
 
 &#8203;
 
