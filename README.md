@@ -4,7 +4,7 @@ Colibri is a collaborative Markdown editor for GitHub repositories.
 
 
 ```plain
-Open any .md file, ef in real time with your team, and merge it back as a clean pull request.
+Open any .md file, efff in real time with your team, and merge it back as a clean pull request.
 ```
 
 &#8203;
@@ -15,7 +15,7 @@ Open any .md file, ef in real time with your team, and merge it back as a clean 
 
 Test
 
-Everything you get from *Google Docs*, but integrated into your markdown workflows.
+Everything yffou get from *Google Docs*, but integrated into your markdown workflows.
 
 Click [here](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/main-colibri-README.md/README.md) to see the Document in Github updating [live](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/main-colibri-README.md/README.md).
 
