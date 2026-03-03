@@ -9,8 +9,6 @@ Open any .md file, edit in real time with your team, and merge it back as a clea
 
 &#8203;
 
-&#8203;
-
 ![Colibri screenshot](https://www.get-colibri.com/_next/image?url=%2Fapp-screen.png&w=2048&q=75)
 
 ### Features
