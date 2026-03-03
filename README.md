@@ -15,7 +15,7 @@ Open any .md file, edit in real time with your team, and merge it back as a clea
 
 ### Features
 
-&#8203;
+Test
 
 Everything you get from *Google Docs*, but integrated into your markdown workflows.
 
