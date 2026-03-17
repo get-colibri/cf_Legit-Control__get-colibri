@@ -21,7 +21,7 @@ Click [here](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/m
 
 **I was here**
 
-this is a blockqoute
+this is a blockquote
 
 **Me** *too* :)
 
