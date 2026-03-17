@@ -23,7 +23,7 @@ Click [here](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/m
 
 this is a **blockquote**
 
-&#8203;
+this 
 
 **Me** *too* :)
 
