@@ -27,7 +27,4 @@ this
 
 **Me** *too* :)
 
-
-```plain
 hola
-```
