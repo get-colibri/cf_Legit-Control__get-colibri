@@ -8,7 +8,7 @@ This app helps you to work together on markdown  //
 
 d⁠![Colibri screenshot](https://www.get-colibri.com/_next/image?url=%2Fapp-screen.png&w=2048&q=75)
 
-### Fewatures
+### Features
 
 Test
 
