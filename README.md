@@ -2,7 +2,13 @@
 
 Colibri is a Markdown editor for GitHub repositories. The greatest app for markdowns!
 
-Open any `.md` file, e in real time with your team, and merge a back as a clean pull request.
+Open any `.md` file, e in real time with your team, and merge a back as a clean pull req
+
+&#8203;
+
+&#8203;
+
+uest.
 
 This app helps you to work together on markdown  //
 
