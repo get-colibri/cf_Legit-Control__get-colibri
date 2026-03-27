@@ -4,7 +4,7 @@ Colibri is a Markdown editor for GitHub repositories. The greatest app for markd
 
 Open any `.md` file, e in real time with your team, and merge a back as a clean pull req
 
-Let me check o
+Let me check how this works. It smees
 
 &#8203;
 
