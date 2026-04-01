@@ -39,4 +39,4 @@ this
 
 hola
 
-Aristotl
+[Aristotle](https://plato.stanford.edu/entries/aristotle/)
