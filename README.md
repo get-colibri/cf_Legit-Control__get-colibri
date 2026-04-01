@@ -1,6 +1,6 @@
 ## Edit Markdown Like in Google Docs. 
 
-Colibri is a d repositories. The greatest app for markdowns!
+Colibri is a ddd repositories. The greatest app for markdowns!
 
 Open any `.md` file, e in real time with your team, and merge a back as a clean pull req
 
@@ -38,3 +38,5 @@ this
 **Me** *too* :)
 
 hola
+
+https://plato.stanford.edu/entries/aristotle/
