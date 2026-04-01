@@ -41,4 +41,4 @@ hola
 
 [Aristotle](https://plato.stanford.edu/entries/aristotle/)
 
-Rigid Designators
+[Rigid Designators](https://plato.stanford.edu/entries/rigid-designators/)
