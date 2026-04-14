@@ -4,7 +4,7 @@ Colibri is a ddd repositories. The greatest app for *markdowns!*
 
 Open any `.md` file, e in real time with your team, and merge a back as a clean pull req
 
-Let me check how this works. It smeems great
+Let me check how this works. It seems great
 
 &#8203;
 
