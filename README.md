@@ -6,7 +6,7 @@ Open any `.md` file, e in real time with your team, and merge a back as a clean 
 
 Let me check how this works. It seems great
 
-&#8203;
+I
 
 &#8203;
 
