@@ -14,7 +14,7 @@ I guess the new one is working
 
 &#8203;
 
-### Woah. Curious if this what is the 
+### Woah. Curious if this what is the realtime advantage here? 
 
 &#8203;
 
