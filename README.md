@@ -10,17 +10,7 @@ I guess the new one is working
 
 ### this is a heading
 
-&#8203;
-
-&#8203;
-
-### Testing the realtime capabilities 
-
-&#8203;
-
-&#8203;
-
-uest.
+### 
 
 This app helps you to work together on markdown  //
 
