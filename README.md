@@ -22,7 +22,7 @@ This app helps you to work together on markdown  //
 
 ### Features
 
-Test
+Test Hel
 
 Everything you get from *Google Docs*, but integrated into your markdown workflows.
 
