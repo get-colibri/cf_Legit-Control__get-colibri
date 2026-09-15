@@ -8,7 +8,7 @@ Let me check how this works. It seems great
 
 I guess the new one is working
 
-### this is a heading
+### this is a heading 
 
 &#8203;
 
@@ -22,7 +22,7 @@ This app helps you to work together on markdown  //
 
 ### Features
 
-Test Hel
+Test Hello world
 
 Everything you get from *Google Docs*, but integrated into your markdown workflows.
 
