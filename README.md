@@ -48,6 +48,6 @@ just checking
 
 &#8203;
 
-But how many commits doe
+But how many commits does this actually create
 
 &#8203;
