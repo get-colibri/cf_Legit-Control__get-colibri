@@ -12,9 +12,9 @@ I guess the new one is working
 
 okay so this is me and my words
 
-$x
+$x$
 
-&#8203;
+##
 
 This app helps you to work together on markdown  //
 
