@@ -1,16 +1,4 @@
-## Edit Markdown Like in Google Docs. 
-
-Colibri is a ddd repositories. The greatest app for *markdowns!*
-
-Open any `.md` file, e in real time with your team. ds, and merge a back as a clean pull req
-
-Let me check how this works. It seems great
-
-I guess the new one is working
-
-### this is a heading 
-
-okay so this is me and my words
+## Edit Markdown Like in Google Docsokay so this is me and my words
 
 $x$
 
