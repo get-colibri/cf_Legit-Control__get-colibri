@@ -1,4 +1,4 @@
-## Edit Markdown Like in Google Docsokay so this is me and my words
+## okay so this is me and my words
 
 $x$
 
@@ -29,14 +29,6 @@ this is a **blockquote**
 this 
 
 **Me** *too* :)
-
-hola
-
-Yes
-
-just checking
-
-&#8203;
 
 But how many commits does this actually create?
 
